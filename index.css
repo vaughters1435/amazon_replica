@@ -1,0 +1,91 @@
+body{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 13px;
+        line-height: 19px;
+ }
+img{
+        width: 103px;
+        height: 31px;
+        padding-top: 25px;
+        margin-left: 800px;
+    }
+
+h1{ 
+        font-size: 28px;
+        font-weight:400;
+        margin-right: 230px;
+     }
+
+.replica{
+        margin-left: 650px;
+        border:1px solid lightgray; 
+        border-radius:3px;
+        height: 275px;
+        width: 375px;
+        text-align: center;
+}
+    
+.inputs{
+        border-color: lightgray; 
+        border-radius: 3px; 
+        border-top-color:lightgray ;
+        height: 25px;
+        width: 315px;}
+  
+#button-1{
+        background-color:#f0c14b;
+        border-color: lightgray;
+        border-radius: 3px;
+        height: 25px;
+        width: 325px;
+    }
+.a-tags{
+        color: #0066c0;
+    }
+#label-1{
+        margin-right: 115px;
+        font-weight:700;}
+
+#label-2{
+        font-weight: 700;
+        margin-right: 150px;}       
+
+#need-help{
+        margin-right: 250px;}
+
+#new{
+        
+        text-align: center;}
+
+#create{
+        width: 315px;
+        height: 25px;
+        
+} 
+hr{ 
+        margin-top: 50px;}        
+        
+#bottom{
+        text-align: center;}
+
+#tags{
+        margin-top: 25px;
+        text-align: center;
+        font-size: smaller;
+    }
+
+#conditions{
+        margin-right: 10px;
+        color: #0066c0;
+}
+
+#help{
+        margin-left: 10px;
+        color: #0066c0;
+}
+
+footer{
+        text-align: center;
+        font-size: smaller;
+        margin-top: 20px;
+    }
